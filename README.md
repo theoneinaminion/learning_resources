@@ -19,6 +19,9 @@ This goal of this repository is to host a pseudo-sorted assortment of educationa
   - Learn how to run jobs on Compute Canada
   - Using VS Code on the Compute Canada clusters
 
+- `linalg.md`
+  - Learn about linear algebra.
+
 ## For contributors:
 
 Click and learn is the ultimate goal. 
