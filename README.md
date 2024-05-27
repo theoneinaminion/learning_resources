@@ -4,23 +4,29 @@ This goal of this repository is to host a pseudo-sorted assortment of educationa
 
 ## Files
 
-- `basic_resources.md`
+- [`basic_resources.md`](https://github.com/theoneinaminion/learning_resources/blob/main/basic_resources.md)
   - Beginners guide to: 
     - Ubuntu command line interface
     - Git
     - Paraview
   - Some general tips/tricks/resources out there. 
-- `cpp_resources.md`
+- [`cpp_resources.md`](https://github.com/theoneinaminion/learning_resources/blob/main/cpp_resources.md)
   - Beginners Guide (in C++) to:
     - Object Oriented Programming
     - Parallel Programming
     - Debugging techniques
-- `compute_canada_resources.md`
+- [`compute_canada_resources.md`](https://github.com/theoneinaminion/learning_resources/blob/main/compute_canada_resources.md)
   - Learn how to run jobs on Compute Canada
   - Using VS Code on the Compute Canada clusters
 
-- `linalg.md`
+- [`linalg.md`](https://github.com/theoneinaminion/learning_resources/blob/main/linalg.md)
   - Learn about linear algebra.
+  
+- [`latex.md`](https://github.com/theoneinaminion/learning_resources/blob/main/latex.md)
+  - Install LaTex compilers 
+  - Popular LaTex editors. 
+  - Running LaTex using VS Code. 
+
 
 ## For contributors:
 
